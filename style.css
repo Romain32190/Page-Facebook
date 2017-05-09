@@ -1,0 +1,104 @@
+body{
+	background-color: 
+}
+
+a label {
+	color: white;
+
+}
+
+#nav{
+	background-color: #3B5998;
+}
+
+
+#facebook{
+	width: 250px;
+	height: 100px;
+	margin-left: 50px;
+}
+
+#form{
+	margin-top: 42px;
+}
+
+#button{
+	margin-right:20px;
+	background-color:#3B5998;
+	color: white;
+}
+
+#titre{
+	margin-left: 720px;
+}
+
+#prénom{
+
+	margin-left: 700px;
+	width: 200px;
+	display: inline-block;
+	height: 40px;
+
+}
+
+#famille{
+	margin-left:700px;
+	width: 200px;
+	display: inline-block;
+	height: 40px;	
+}
+
+#e-mail{
+	margin-left: 715px;
+	width: 408px;
+	display: inline-block;
+	height: 40px;
+}
+
+#password{
+	margin-left: 715px;
+	width: 408px;
+	display: inline-block;
+	height: 40px;
+}
+
+#date{
+
+	margin-left: 715px;
+
+}
+
+h3{
+	margin-left: 715px;
+
+}
+
+#titre2{
+	margin-left: 720px;
+}
+
+#gender{
+	margin-left: 715px;
+	padding-top: 20px;
+
+}
+
+#lien{
+	margin-left: 715px;
+	display: inline-block;
+	padding-bottom: 20px;
+}
+
+
+#button1{
+	margin-left: 715px;
+	background-color: #3A9D23;
+	color: white;
+	border-radius: 10px;
+	width: 230px;
+	height: 45px;
+}
+
+#photo{
+	margin-bottom: 300px;
+}
