@@ -1,5 +1,5 @@
-body{
-	background-color: 
+#background{
+	background-color: #DCDCDC;
 }
 
 a label {
@@ -32,7 +32,7 @@ a label {
 	margin-left: 720px;
 }
 
-#prénom{
+#prenom{
 
 	margin-left: 700px;
 	width: 200px;
@@ -41,14 +41,14 @@ a label {
 
 }
 
-#famille{
+#name{
 	margin-left:700px;
 	width: 200px;
 	display: inline-block;
 	height: 40px;	
 }
 
-#e-mail{
+#email{
 	margin-left: 715px;
 	width: 408px;
 	display: inline-block;
@@ -74,19 +74,19 @@ h3{
 }
 
 #titre2{
-	margin-left: 720px;
+	margin-right: 720px;
 }
 
 #gender{
 	margin-left: 715px;
-	padding-top: 20px;
+	margin-top: 20px;
 
 }
 
 #lien{
 	margin-left: 715px;
 	display: inline-block;
-	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 
@@ -99,6 +99,11 @@ h3{
 	height: 45px;
 }
 
-#photo{
-	margin-bottom: 300px;
+#titre1{
+	margin-left:720px;
 }
+
+#photo{
+	margin-bottom: 500px;
+}
+
